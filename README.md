@@ -4,7 +4,7 @@ A Node + Jest + Puppeteer base image for running End to End tests using Puppetee
 
 ## Versions
 
-See the list of [Docker Hub tags](https://hub.docker.com/r/*****) for Puppeteer versions available.
+See the list of [Docker Hub tags](https://hub.docker.com/r/thiagochierici/docker-jest-puppeteer) for Puppeteer versions available.
 
 ## Example
 
